@@ -127,7 +127,7 @@ public class ArrayManipulation {
             
            /*
             * Instead of following the commented approach i.e, adding the value of 'k' to all elements from indices a to b
-            * 	- Above approach will 
+            * 	- Above approach will increase execution time for large inputs
             * Add value of 'k' to [a-1]th index element and subtract value of 'k' from [b]th index element of array
             */
             
